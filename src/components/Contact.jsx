@@ -133,4 +133,8 @@ const Contact = () => {
   );
 };
 
+<<<<<<< HEAD
 export default SectionWrapper(Contact, "contact");
+=======
+export default SectionWrapper(Contact, "contact");
+>>>>>>> 5c22901f037f0be1a14e4744585fc367998201b0
